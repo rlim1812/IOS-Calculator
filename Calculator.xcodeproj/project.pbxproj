@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37165F881D5A67A800CD10D2 /* Structs:Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37165F871D5A67A800CD10D2 /* Structs:Enums.swift */; };
 		37A0AAC41D5A47A30092B744 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A0AAC31D5A47A30092B744 /* AppDelegate.swift */; };
 		37A0AAC61D5A47A30092B744 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A0AAC51D5A47A30092B744 /* ViewController.swift */; };
 		37A0AAC91D5A47A30092B744 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A0AAC71D5A47A30092B744 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37165F871D5A67A800CD10D2 /* Structs:Enums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Structs:Enums.swift"; sourceTree = "<group>"; };
 		37A0AAC01D5A47A30092B744 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37A0AAC31D5A47A30092B744 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37A0AAC51D5A47A30092B744 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				37A0AAC31D5A47A30092B744 /* AppDelegate.swift */,
 				37A0AAC51D5A47A30092B744 /* ViewController.swift */,
+				37165F871D5A67A800CD10D2 /* Structs:Enums.swift */,
 				37A0AAC71D5A47A30092B744 /* Main.storyboard */,
 				37A0AACA1D5A47A30092B744 /* Assets.xcassets */,
 				37A0AACC1D5A47A30092B744 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37A0AAC61D5A47A30092B744 /* ViewController.swift in Sources */,
+				37165F881D5A67A800CD10D2 /* Structs:Enums.swift in Sources */,
 				37A0AAC41D5A47A30092B744 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +301,7 @@
 				37A0AAD41D5A47A30092B744 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
